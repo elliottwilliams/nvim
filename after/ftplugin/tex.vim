@@ -1,0 +1,1 @@
+/Users/herooftime/.dotfiles/vim/after/ftplugin/tex.vim
